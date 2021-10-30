@@ -1,10 +1,11 @@
-#Statistical Analysis project
-Author- Bisman Singh Sawhney.
+# Statistical Analysis project
 
+Author- Bisman Singh Sawhney.
 
 A executable build of the application has already been provided
 
 To start the program run: out/artifacts/final/CSAS.jar
+
 **Username: admin
 **Password: password
 
