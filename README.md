@@ -13,3 +13,5 @@ To start the program run: out/artifacts/final/CSAS.jar
 **Use Argentina 2000-2005 as an example to view the charts/graphs. 
 Since this is only a project, the database is not fully populated for each
 country.
+
+Includes all documentation such as Use Cases, Class Diagrams, etc.
