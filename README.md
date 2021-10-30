@@ -1,4 +1,4 @@
-# Statistical Analysis project
+# Statistical Analysis Project
 
 Author- Bisman Singh Sawhney.
 
