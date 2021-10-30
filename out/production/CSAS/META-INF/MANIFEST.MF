@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: MainUI
+Class-Path: jcommon-1.0.0.jar jfreechart-1.0.1.jar
+

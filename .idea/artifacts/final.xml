@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="final">
+    <output-path>$PROJECT_DIR$/out/artifacts/final</output-path>
+    <root id="root">
+      <element id="file-copy" path="$PROJECT_DIR$/jfreechart-1.0.1/lib/jcommon-1.0.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/jfreechart-1.0.1/lib/jfreechart-1.0.1.jar" />
+      <element id="archive" name="CSAS.jar">
+        <element id="module-output" name="CSAS" />
+      </element>
+    </root>
+  </artifact>
+</component>
